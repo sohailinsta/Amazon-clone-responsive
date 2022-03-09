@@ -1,0 +1,129 @@
+.footer-top{
+background-color: #1c2631;
+height: 50px;
+}
+
+.top-back{
+color: white;
+margin-top: 5px;
+}
+
+.another-footer{
+    background-color: #232F3E;
+    height: 110vh;
+}
+
+.get-to-know{
+    margin-left: 150px;
+}
+
+.get-to-know-two{
+    margin-left: 150px;
+    font-size: 14px;
+}
+
+.font-about{
+    color: white;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.font-about-two{
+    color: white;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.font-about-two-business{
+    color: white;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 40px;
+}
+
+.about{
+    color: white;
+    padding-top: 10px;
+
+}
+
+.about-two{
+    color: white;
+    padding-top: 5px;
+    font-size: 10px;
+}
+
+.about-two-everything{
+    color: white;
+    padding-top: 5px;
+    font-size: 10px;
+    margin-left: 40px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-two{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
+
+.line{
+    color: rgb(87, 85, 85);
+    margin-top: 25px;
+}
+
+.language-icon{
+    color: aliceblue;
+}
+
+.english-box{
+    margin-left: 10px;
+    color: white;
+}
+
+.flex-img-language{
+    display: flex;
+    align-items: center;
+    margin-left: 500px;
+}
+
+.box-language{
+    display: flex;
+    margin-left: 50px;
+    width: 100px;
+    border: 2px solid gray;
+}
+
+.australia{
+    color: white;
+    margin-left: 205px;
+}
+
+.australia-two{
+    color: white;
+    margin-left: 20px;
+}
+
+.flex-australia{
+    display: flex;
+    font-size: small;
+}
+
+.third-footer{
+    background-color: #131A22;   
+    height: 50vh;
+    margin-top: 20px;
+}
+
+.margin-copy{
+    margin-top: 45px;
+    font-weight: 600;
+    color: white;
+}
